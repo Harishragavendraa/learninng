@@ -1,0 +1,7 @@
+<<<<<<< HEAD:add.py
+a=150
+=======
+a=150;
+>>>>>>> 7f3b0762a70566075d8dd7de9be0cbe1609018eb:a to change 150
+b=200
+print(a+b)  
